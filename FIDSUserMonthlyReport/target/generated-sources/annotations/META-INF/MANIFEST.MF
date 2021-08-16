@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.demo.ExcelProject.CreateMonthlyReport
+Class-Path: xmlbeans-3.1.0.jar commons-compress-1.19.jar poi-ooxml-schem
+ as-4.1.1.jar poi-4.1.1.jar commons-collections4-4.4.jar poi-ooxml-4.1.1
+ .jar commons-math3-3.6.1.jar commons-codec-1.13.jar mssql-jdbc-9.2.1.jr
+ e8.jar
+
